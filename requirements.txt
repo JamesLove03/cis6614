@@ -1,0 +1,12 @@
+langchain-typesafe==0.0.1a3
+langchain-core==1.7.1
+httpx2==2.16.0
+pydantic==2.14.1
+fastapi==0.162.0
+uvicorn==0.54.0
+python-dotenv==1.2.4
+huggingface-hub==2.3.0
+numpy==2.5.4
+matplotlib==3.11.2
+pytest==9.2.0
+httpx==0.28.1

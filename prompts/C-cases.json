@@ -1,0 +1,82 @@
+[
+  {
+    "id": "test:8022",
+    "group": "missed_by_both"
+  },
+  {
+    "id": "test:14691",
+    "group": "missed_by_both"
+  },
+  {
+    "id": "test:12178",
+    "group": "missed_by_both"
+  },
+  {
+    "id": "test:2616",
+    "group": "missed_by_both"
+  },
+  {
+    "id": "test:1795",
+    "group": "missed_by_both"
+  },
+  {
+    "id": "test:18684",
+    "group": "benign_control"
+  },
+  {
+    "id": "test:4401",
+    "group": "benign_control"
+  },
+  {
+    "id": "test:16002",
+    "group": "benign_control"
+  },
+  {
+    "id": "test:16458",
+    "group": "benign_control"
+  },
+  {
+    "id": "test:3391",
+    "group": "benign_control"
+  },
+  {
+    "id": "test:4517",
+    "group": "benign_control"
+  },
+  {
+    "id": "test:19004",
+    "group": "benign_control"
+  },
+  {
+    "id": "test:1759",
+    "group": "benign_control"
+  },
+  {
+    "id": "test:17228",
+    "group": "benign_control"
+  },
+  {
+    "id": "test:12593",
+    "group": "benign_control"
+  },
+  {
+    "id": "test:22528",
+    "group": "caught_by_both"
+  },
+  {
+    "id": "test:13065",
+    "group": "caught_by_both"
+  },
+  {
+    "id": "test:15948",
+    "group": "caught_by_both"
+  },
+  {
+    "id": "test:21392",
+    "group": "caught_by_both"
+  },
+  {
+    "id": "test:12770",
+    "group": "caught_by_both"
+  }
+]
